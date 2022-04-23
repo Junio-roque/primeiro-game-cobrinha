@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    height: 90vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(123, 186, 76);
+}
+h1{
+    color: black;
+    align-items: center;
+}
